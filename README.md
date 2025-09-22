@@ -83,6 +83,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Myth](https://medium.com/@arishabh748/beyond-the-myth-2db5dfedce11?source=rss-cc415cecd21e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub Stats & WakaTime -->
