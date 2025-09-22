@@ -83,6 +83,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Bollywood &amp; Bhojpuri Songs Dominate India’s YouTube Trends &lpar;2025&rpar;](https://medium.com/@arishabh748/why-bollywood-bhojpuri-songs-dominate-indias-youtube-trends-2025-006e72db9c98?source=rss-cc415cecd21e------2)
 - [Beyond the Myth](https://medium.com/@arishabh748/beyond-the-myth-2db5dfedce11?source=rss-cc415cecd21e------2)
 <!-- BLOG-POST-LIST:END -->
 
