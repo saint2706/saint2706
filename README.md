@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Rishabh%20Agrawal&desc=Statistics%20%7C%20Marketing%20%7C%20Analytics&fontSize=70&descAlignY=51&descAlign=62" alt="Header Image" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Rishabh%20Agrawal&fontSize=70&descAlignY=51&descAlign=62" alt="Header Image" />
 </p>
 
 <!-- Introduction -->
@@ -115,7 +115,7 @@
   <a href="https://linkedin.com/in/rishabh-agrawal-1807321b9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@arishabh748" target="_blank">
+  <a href="https://medium.com/@saint2706" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://reddit.com/user/saintwithataint" target="_blank">
