@@ -83,6 +83,8 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Mastery: Solving Diverse Challenges with Pro-g-rammingChallenges4](https://dev.to/saint2706/programming-mastery-solving-diverse-challenges-with-pro-g-rammingchallenges4-1jh5)
+- [Building &#39;The Scroll of Dharma&#39;: A Technical Deep Dive into an Interactive Meditation Platform](https://dev.to/saint2706/building-the-scroll-of-dharma-a-technical-deep-dive-into-an-interactive-meditation-platform-4bob)
 - [My Technical Journey](https://saint2706.medium.com/my-technical-journey-2688ee2df00b?source=rss-cc415cecd21e------2)
 - [Why Bollywood &amp; Bhojpuri Songs Dominate India’s YouTube Trends &lpar;2025&rpar;](https://saint2706.medium.com/why-bollywood-bhojpuri-songs-dominate-indias-youtube-trends-2025-006e72db9c98?source=rss-cc415cecd21e------2)
 - [Beyond the Myth](https://saint2706.medium.com/beyond-the-myth-2db5dfedce11?source=rss-cc415cecd21e------2)
