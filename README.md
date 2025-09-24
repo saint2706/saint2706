@@ -107,6 +107,9 @@
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://dev.to/saint2706" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
+  </a>
   <a href="https://facebook.com/Saint.00000000000" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
