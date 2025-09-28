@@ -1,16 +1,27 @@
+# This is the name of the GitHub Actions workflow.
 name: Latest blog post workflow
+
+# This section defines when the workflow will run.
 on:
   schedule:
-    # Runs every hour
+    # This is a cron job that runs the workflow every hour.
     - cron: '0 * * * *'
+  # This allows the workflow to be run manually from the GitHub Actions tab.
   workflow_dispatch:
 
+# This section defines the jobs that will be run in the workflow.
 jobs:
   update-readme-with-blog:
+    # This is the name of the job.
     name: Update this repo's README with latest blog posts
+    # This specifies that the job will run on the latest version of Ubuntu.
     runs-on: ubuntu-latest
+    # This section defines the steps that will be run in the job.
     steps:
+      # This step checks out the repository's code.
       - uses: actions/checkout@v2
+      # This step uses a pre-built action to fetch blog posts and update the README.
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          # This is a comma-separated list of RSS feeds to fetch blog posts from.
           feed_list: "https://medium.com/feed/@saint2706,https://dev.to/feed/saint2706"
