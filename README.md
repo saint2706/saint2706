@@ -103,6 +103,11 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rishabh's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Saint2706&layout=compact&hide_border=true" /></a>
 </p>
 
+<!-- Contributing -->
+## 🤝 Contributing
+
+Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING.md) for more information.
+
 <!-- Socials -->
 ## 🌐 Connect with Me
 
