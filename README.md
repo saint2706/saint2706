@@ -100,6 +100,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint2706&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+<!-- LeetCode Stats -->
+<p align="center">
+  <img src="https://leetcode-badge-sage.vercel.app/badge/saintwithataint?theme=dark&bgColor=292D3E" alt="saintwithataint's LeetCode stats" />
+</p>
+
 <!-- WakaTime Stats -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rishabh's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Saint2706&layout=compact&hide_border=true" /></a>
