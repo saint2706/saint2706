@@ -83,11 +83,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your First Movie Recommendation Engine in Python](https://dev.to/saint2706/build-your-first-movie-recommendation-engine-in-python-5585)
 - [A Beginner&#39;s Guide to Data Analysis with Python: Using Pandas and NumPy](https://dev.to/saint2706/a-beginners-guide-to-data-analysis-with-python-using-pandas-and-numpy-3gne)
 - [Beyond the Algorithm: Analyzing the Rise of Regional Indian Cinema on Netflix and Amazon Prime](https://saint2706.medium.com/beyond-the-algorithm-analyzing-the-rise-of-regional-indian-cinema-on-netflix-and-amazon-prime-34f28396f634?source=rss-cc415cecd21e------2)
 - [Programming Mastery: Solving Diverse Challenges with Pro-g-rammingChallenges4](https://dev.to/saint2706/programming-mastery-solving-diverse-challenges-with-pro-g-rammingchallenges4-1jh5)
 - [Building &#39;The Scroll of Dharma&#39;: A Technical Deep Dive into an Interactive Meditation Platform](https://dev.to/saint2706/building-the-scroll-of-dharma-a-technical-deep-dive-into-an-interactive-meditation-platform-4bob)
-- [My Technical Journey](https://saint2706.medium.com/my-technical-journey-2688ee2df00b?source=rss-cc415cecd21e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub Stats & WakaTime -->
