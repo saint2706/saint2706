@@ -17,17 +17,24 @@ To add or update a link:
 
 1.  Open the `README.md` file.
 2.  Navigate to the `## 🌐 Connect with Me` section.
-3.  You can add a new badge by following the existing format. It's best to use [shields.io](https://shields.io/) to generate a new badge.
+3.  You can add a new badge by following the existing format. Prefer [Fancy Badges](https://jmcrafter26.github.io/badges/), which is the primary badge source for this README. Its URLs follow the pattern:
+
+    ```
+    https://jmcrafter26.github.io/badges/<category>/<badge>/<style>.svg
+    ```
+
+    Categories include `social`, `built-with`, `available`, `documentation`, `supported` and `donate`; styles are `cozy`, `compact`, `cozy-minimal` and `compact-minimal`. This README uses `compact` throughout — please stick to it so the rows line up.
 
     Here's an example of the format for a badge:
 
     ```html
     <a href="YOUR_PROFILE_URL" target="_blank">
-      <img src="SHIELDS.IO_BADGE_URL" alt="BADGE_ALT_TEXT" />
+      <img src="https://jmcrafter26.github.io/badges/social/mastodon-singular/compact.svg" alt="BADGE_ALT_TEXT" height="46" />
     </a>
     ```
 
-4.  Make sure to replace `YOUR_PROFILE_URL`, `SHIELDS.IO_BADGE_URL`, and `BADGE_ALT_TEXT` with the correct values.
+4.  Make sure to replace `YOUR_PROFILE_URL` and `BADGE_ALT_TEXT` with the correct values, and check that the badge URL returns a `200` — not every badge in the catalogue is published to the GitHub Pages host.
+5.  If Fancy Badges has no badge for the service you're adding, fall back to [shields.io](https://shields.io/) with `style=for-the-badge`, and add it to one of the shields.io-only rows so the two styles stay grouped rather than interleaved.
 
 ### 2. Adding or Updating Blog Feeds
 
