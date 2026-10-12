@@ -6,7 +6,7 @@
 <!-- Typing tagline -->
 <p align="center">
   <a href="https://github.com/saint2706">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&height=40&lines=Business+analytics+%C3%97+statistics+%C3%97+machine+learning;Turning+messy+data+into+decisions;Teaching+coding+to+people+who+never+thought+they'd+code;Building+small%2C+weird+things+for+fun" alt="Typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&height=40&lines=Business+analytics+%C3%97+statistics+%C3%97+machine+learning;Turning+messy+data+into+decisions;Teaching+coding+to+business+professionals;Building+small%2C+weird+things" alt="Typing tagline" />
   </a>
 </p>
 
@@ -25,28 +25,28 @@
 <!-- About Me -->
 ## 👋 About Me
 
-- 🎓 I'm studying at **Goa Institute of Management**, mostly business analytics, statistics and machine learning.
-- 📊 I like data problems where the answer has to end up in front of someone who decides things: churn, savings behaviour, margin erosion, player impact.
-- 🧑‍🏫 I wrote [**Coding for MBA**](https://github.com/saint2706/Coding-For-MBA), a free browser-based course that takes business students from spreadsheets to AI engineering.
-- 🧪 On the side I build odd projects: a glasses-free 3D illusion, a face-recognition attendance system, a repo of 150 programming challenges.
-- 🧠 I also argue about philosophy and mythology, and some of that turns into [blog posts](#-latest-blog-posts).
+- 🎓 I'm studying at Goa Institute of Management and work on business analytics, statistics and machine learning.
+- 📊 I turn messy data into something a decision-maker can act on. Recent projects cover household savings, retail margins, IPL players and employee attrition.
+- 🧑‍🏫 I wrote [Coding for MBA](https://github.com/saint2706/Coding-For-MBA), a free browser-based course that takes business professionals from spreadsheets to AI engineering.
+- 🧪 I build a lot of small, weird things, such as off-axis 3D projections and face-recognition attendance systems.
+- 🧠 I enjoy thought experiments and debates about philosophy and mythology, and some of them end up as [blog posts](#-latest-blog-posts).
 
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
 
-### 🎓 Teaching & practice
+### 🎓 Teaching & Practice
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Coding for MBA**](https://github.com/saint2706/Coding-For-MBA) · [live](https://saint2706.github.io/Coding-For-MBA/) | A free, self-paced course for business professionals: 12 phases over 162 days. Python runs in the browser, progress is saved locally, and it works offline after the first load. | React 19, TypeScript, Vite, Zustand, Vitest, Playwright |
 | [**Programming Challenges 6**](https://github.com/saint2706/Programming-Challenges-6) | The sixth version of my learn-a-language-by-building repo. It has 150 challenges across software, algorithms, web, analytics and ML, and 73 are done. One of them is a Rust B-tree benchmarked against other tree structures. | Python, Rust, JavaScript/Svelte, FastAPI, Polars, DuckDB, Streamlit |
 
-### 🛠️ Systems & web builds
+### 🛠️ Systems & Web Builds
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Attendance via Face Recognition**](https://github.com/saint2706/Attendance-Management-System-Using-Face-Recognition) | A self-hosted attendance tracker with touchless check-in. A two-stage liveness check tries to reject photos and screens. The front end is an installable PWA, and it ships with Docker and Kubernetes configs. | Django, DRF, DeepFace, Celery, Redis, React, Tailwind |
-| [**Off-Axis Experiments**](https://github.com/saint2706/off-axis-experiments) · [live](https://off-axis-experiments.vercel.app) | A 3D "window" that needs no glasses. The projection is recalculated every frame from where your eyes are, tracked with the mouse, device tilt or your webcam. | WebGL, MediaPipe FaceMesh |
+| [**Off-Axis Experiments**](https://github.com/saint2706/off-axis-experiments) · [live](https://off-axis-experiments.vercel.app) | A 3D "window" that needs no glasses. The projection is recalculated every frame from the viewer's position, set by mouse, device tilt or webcam head tracking. | WebGL, MediaPipe FaceMesh |
 | [**Portfolio**](https://github.com/saint2706/saint2706.github.io) · [live](https://saint2706.github.io) | My personal site, with an AI chat version of me, a Python playground that runs in the browser, and a few games, including Connect Four against a minimax AI. | React 19, Vite, Tailwind v4, Pyodide |
 
 <!-- Currently Learning -->
@@ -180,7 +180,7 @@
 <!-- Contributing -->
 ## 🤝 Contributing
 
-Found a broken link or want to add a blog feed? See the [contributing guidelines](CONTRIBUTING.md).
+To fix a broken link or add a blog feed, see the [contributing guidelines](CONTRIBUTING.md).
 
 <p align="center">
   <sub>Header by <a href="https://github.com/kyechan99/capsule-render">capsule-render</a> · tagline by <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a> · snake by <a href="https://github.com/Platane/snk">Platane/snk</a> · badges by <a href="https://jmcrafter26.github.io/badges/">Fancy Badges</a> and <a href="https://shields.io/">shields.io</a></sub>
