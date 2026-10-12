@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishabh%20Agrawal&fontSize=62&fontAlignY=38&desc=Code%2C%20Cope%20and%20Code.&descSize=20&descAlignY=58" alt="Rishabh Agrawal — Code, Cope and Code." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishabh%20Agrawal&fontSize=62&fontAlignY=38&desc=Code%2C%20Cope%20and%20Code.&descSize=20&descAlignY=58" alt="Rishabh Agrawal: Code, Cope and Code." />
 </p>
 
 <!-- Typing tagline -->
@@ -25,11 +25,11 @@
 <!-- About Me -->
 ## 👋 About Me
 
-- 🎓 Studying at **Goa Institute of Management**, working at the intersection of **business analytics, statistics and machine learning**.
-- 📊 I like turning messy data into something a decision-maker can act on — churn, savings behaviour, margin erosion, player impact.
-- 🧑‍🏫 I teach what I learn. [**Coding for MBA**](https://github.com/saint2706/Coding-For-MBA) is a free, browser-based course that takes business folks from spreadsheets to AI engineering.
-- 🧪 I build small, weird things: glasses-free 3D illusions, face-recognition attendance, a 150-challenge polyglot practice repo.
-- 🧠 I enjoy debates on **philosophy** and mythology, and some of them end up as [blog posts](#-latest-blog-posts).
+- 🎓 I'm studying at **Goa Institute of Management**, mostly business analytics, statistics and machine learning.
+- 📊 I like data problems where the answer has to end up in front of someone who decides things: churn, savings behaviour, margin erosion, player impact.
+- 🧑‍🏫 I wrote [**Coding for MBA**](https://github.com/saint2706/Coding-For-MBA), a free browser-based course that takes business students from spreadsheets to AI engineering.
+- 🧪 On the side I build odd projects: a glasses-free 3D illusion, a face-recognition attendance system, a repo of 150 programming challenges.
+- 🧠 I also argue about philosophy and mythology, and some of that turns into [blog posts](#-latest-blog-posts).
 
 <!-- Featured Projects -->
 ## 🚀 Featured Projects
@@ -38,22 +38,22 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Coding for MBA**](https://github.com/saint2706/Coding-For-MBA) · [live](https://saint2706.github.io/Coding-For-MBA/) | A free, self-paced, 12-phase / 162-day curriculum for business professionals. Python runs in the browser (Pyodide), progress is saved locally, and it works offline after first load. CI covers lint, type checks, content validation, unit and e2e tests. | React 19, TypeScript, Vite, Zustand, Vitest, Playwright |
-| [**Programming Challenges 6**](https://github.com/saint2706/Programming-Challenges-6) | Sixth iteration of my learn-a-language-by-building repo: 150 challenges across practical software, algorithms, web, data analytics and practical ML. 73 implemented so far, including a Rust B-tree benchmarked against other tree structures. | Python, Rust, JavaScript/Svelte, FastAPI, Polars, DuckDB, Streamlit |
+| [**Coding for MBA**](https://github.com/saint2706/Coding-For-MBA) · [live](https://saint2706.github.io/Coding-For-MBA/) | A free, self-paced course for business professionals: 12 phases over 162 days. Python runs in the browser, progress is saved locally, and it works offline after the first load. | React 19, TypeScript, Vite, Zustand, Vitest, Playwright |
+| [**Programming Challenges 6**](https://github.com/saint2706/Programming-Challenges-6) | The sixth version of my learn-a-language-by-building repo. It has 150 challenges across software, algorithms, web, analytics and ML, and 73 are done. One of them is a Rust B-tree benchmarked against other tree structures. | Python, Rust, JavaScript/Svelte, FastAPI, Polars, DuckDB, Streamlit |
 
 ### 🛠️ Systems & web builds
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Attendance via Face Recognition**](https://github.com/saint2706/Attendance-Management-System-Using-Face-Recognition) | Self-hosted, touchless check-in/out with a two-stage liveness check against photo and screen spoofing. Background retraining via Celery, installable PWA front end, Docker/Kubernetes configs and Sentry for observability. | Django, DRF, DeepFace/FaceNet, Celery, Redis, React, Tailwind |
-| [**Off-Axis Experiments**](https://github.com/saint2706/off-axis-experiments) · [live](https://off-axis-experiments.vercel.app) | A glasses-free 3D "virtual window": the camera frustum is recomputed every frame from your eye position (Kooima's generalized perspective projection), driven by mouse, device tilt or webcam head tracking. | WebGL, MediaPipe FaceMesh |
-| [**Portfolio**](https://github.com/saint2706/saint2706.github.io) · [live](https://saint2706.github.io) | Dual-theme personal site with a Gemini-powered AI chat, an in-browser Python playground, browser games (Connect Four with a minimax AI) and a strict CSP. | React 19, Vite, Tailwind v4, Pyodide |
+| [**Attendance via Face Recognition**](https://github.com/saint2706/Attendance-Management-System-Using-Face-Recognition) | A self-hosted attendance tracker with touchless check-in. A two-stage liveness check tries to reject photos and screens. The front end is an installable PWA, and it ships with Docker and Kubernetes configs. | Django, DRF, DeepFace, Celery, Redis, React, Tailwind |
+| [**Off-Axis Experiments**](https://github.com/saint2706/off-axis-experiments) · [live](https://off-axis-experiments.vercel.app) | A 3D "window" that needs no glasses. The projection is recalculated every frame from where your eyes are, tracked with the mouse, device tilt or your webcam. | WebGL, MediaPipe FaceMesh |
+| [**Portfolio**](https://github.com/saint2706/saint2706.github.io) · [live](https://saint2706.github.io) | My personal site, with an AI chat version of me, a Python playground that runs in the browser, and a few games, including Connect Four against a minimax AI. | React 19, Vite, Tailwind v4, Pyodide |
 
 <!-- Currently Learning -->
 ## 🌱 Currently Exploring
 
-- 📈 Deeper **statistics** and clustering algorithms beyond K-Means.
-- 🦀 **Rust** and **Go**, by re-solving problems I've already solved in Python.
+- 📈 More statistics, and clustering beyond K-Means.
+- 🦀 Rust and Go, by re-solving problems I've already solved in Python.
 - 🤖 Fine-tuning and deploying transformer models on consumer GPUs.
 
 <!-- Tech Stack -->
@@ -180,7 +180,7 @@
 <!-- Contributing -->
 ## 🤝 Contributing
 
-Spotted a broken link or want to suggest a blog feed? See the [contributing guidelines](CONTRIBUTING.md).
+Found a broken link or want to add a blog feed? See the [contributing guidelines](CONTRIBUTING.md).
 
 <p align="center">
   <sub>Header by <a href="https://github.com/kyechan99/capsule-render">capsule-render</a> · tagline by <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a> · snake by <a href="https://github.com/Platane/snk">Platane/snk</a> · badges by <a href="https://jmcrafter26.github.io/badges/">Fancy Badges</a> and <a href="https://shields.io/">shields.io</a></sub>
