@@ -23,25 +23,25 @@
 </p>
 
 <!-- About Me -->
-## 👋 About Me
+## About Me
 
-- 🎓 I'm studying at Goa Institute of Management and work on business analytics, statistics and machine learning.
-- 📊 I turn messy data into something a decision-maker can act on. Recent projects cover household savings, retail margins, IPL players and employee attrition.
-- 🧑‍🏫 I wrote [Coding for MBA](https://github.com/saint2706/Coding-For-MBA), a free browser-based course that takes business professionals from spreadsheets to AI engineering.
-- 🧪 I build a lot of small, weird things, such as off-axis 3D projections and face-recognition attendance systems.
-- 🧠 I enjoy thought experiments and debates about philosophy and mythology, and some of them end up as [blog posts](#-latest-blog-posts).
+- I'm studying at Goa Institute of Management and work on business analytics, statistics and machine learning.
+- I turn messy data into something a decision-maker can act on. Recent projects cover household savings, retail margins, IPL players and employee attrition.
+- I wrote [Coding for MBA](https://github.com/saint2706/Coding-For-MBA), a free browser-based course that takes business professionals from spreadsheets to AI engineering.
+- I build a lot of small, weird things, such as off-axis 3D projections and face-recognition attendance systems.
+- I enjoy thought experiments and debates about philosophy and mythology, and some of them end up as [blog posts](#latest-blog-posts).
 
 <!-- Featured Projects -->
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎓 Teaching & Practice
+### Teaching & Practice
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Coding for MBA**](https://github.com/saint2706/Coding-For-MBA) · [live](https://saint2706.github.io/Coding-For-MBA/) | A free, self-paced course for business professionals: 12 phases over 162 days. Python runs in the browser, progress is saved locally, and it works offline after the first load. | React 19, TypeScript, Vite, Zustand, Vitest, Playwright |
 | [**Programming Challenges 6**](https://github.com/saint2706/Programming-Challenges-6) | The sixth version of my learn-a-language-by-building repo. It has 150 challenges across software, algorithms, web, analytics and ML, and 73 are done. One of them is a Rust B-tree benchmarked against other tree structures. | Python, Rust, JavaScript/Svelte, FastAPI, Polars, DuckDB, Streamlit |
 
-### 🛠️ Systems & Web Builds
+### Systems & Web Builds
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -50,14 +50,14 @@
 | [**Portfolio**](https://github.com/saint2706/saint2706.github.io) · [live](https://saint2706.github.io) | My personal site, with an AI chat version of me, a Python playground that runs in the browser, and a few games, including Connect Four against a minimax AI. | React 19, Vite, Tailwind v4, Pyodide |
 
 <!-- Currently Learning -->
-## 🌱 Currently Exploring
+## Currently Exploring
 
-- 📈 More statistics, and clustering beyond K-Means.
-- 🦀 Rust and Go, by re-solving problems I've already solved in Python.
-- 🤖 Fine-tuning and deploying transformer models on consumer GPUs.
+- More statistics, and clustering beyond K-Means.
+- Rust and Go, by re-solving problems I've already solved in Python.
+- Fine-tuning and deploying transformer models on consumer GPUs.
 
 <!-- Tech Stack -->
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="left">
   <strong>Languages</strong><br>
@@ -103,7 +103,7 @@
 </p>
 
 <!-- Latest Blog Posts -->
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [6 Counter-Intuitive Marketing Truths That Explain Why We Buy](https://saint2706.medium.com/6-counter-intuitive-marketing-truths-that-explain-why-we-buy-0b5ecebab9aa?source=rss-cc415cecd21e------2)
@@ -114,7 +114,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saint2706&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -135,7 +135,7 @@
 </p>
 
 <!-- Socials -->
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://saint2706.github.io" target="_blank">
@@ -178,7 +178,7 @@
 </p>
 
 <!-- Contributing -->
-## 🤝 Contributing
+## Contributing
 
 To fix a broken link or add a blog feed, see the [contributing guidelines](CONTRIBUTING.md).
 
