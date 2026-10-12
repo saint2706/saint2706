@@ -1,17 +1,21 @@
-<!-- Header Image -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Rishabh%20Agrawal&fontSize=70&descAlignY=51&descAlign=62" alt="Header Image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rishabh%20Agrawal&fontSize=62&fontAlignY=38&desc=Code%2C%20Cope%20and%20Code.&descSize=20&descAlignY=58" alt="Rishabh Agrawal: Code, Cope and Code." />
 </p>
 
-<!-- Introduction -->
-<h1 align="center">Hi there, I'm Rishabh Agrawal 👋</h1>
+<!-- Typing tagline -->
+<p align="center">
+  <a href="https://github.com/saint2706">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&height=40&lines=Business+analytics+%C3%97+statistics+%C3%97+machine+learning;Turning+messy+data+into+decisions;Teaching+coding+to+business+professionals;Building+small%2C+weird+things" alt="Typing tagline" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://saint2706.github.io" target="_blank">
     <img src="https://jmcrafter26.github.io/badges/documentation/website/compact.svg" alt="Portfolio website" height="46" />
   </a>
-  <a href="https://github.com/saint2706" target="_blank">
-    <img src="https://jmcrafter26.github.io/badges/social/github-singular/compact.svg" alt="GitHub" height="46" />
+  <a href="https://linkedin.com/in/rishabh-agrawal-1807321b9" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/social/linkedin-singular/compact.svg" alt="LinkedIn" height="46" />
   </a>
   <a href="https://dev.to/saint2706" target="_blank">
     <img src="https://jmcrafter26.github.io/badges/social/dev-to-singular/compact.svg" alt="dev.to" height="46" />
@@ -19,35 +23,41 @@
 </p>
 
 <!-- About Me -->
-## 📖 About Me
+## About Me
 
-- 📊 I work at the intersection of **business analytics, statistics and machine learning** — turning messy data into something a decision-maker can actually act on.
-- 🧑‍🏫 I like teaching what I learn. [**Coding for MBA**](https://github.com/saint2706/Coding-For-MBA) is a free, 145-day, browser-based curriculum that takes business folks from spreadsheets to AI engineering.
-- 🧪 I build a lot of small, weird things: off-axis 3D projections, face-recognition attendance systems, IPL player-archetype models, meditation scrolls.
-- 🧠 I enjoy thought experiments and debates on abstract topics in **philosophy** and mythology — some of which end up as blog posts.
-- ✍️ I write on [Medium](https://medium.com/@saint2706) and [dev.to](https://dev.to/saint2706) about ML, marketing psychology and the occasional Mahabharata counterfactual.
+- I'm studying at Goa Institute of Management and work on business analytics, statistics and machine learning.
+- I turn messy data into something a decision-maker can act on. Recent projects cover household savings, retail margins, IPL players and employee attrition.
+- I wrote [Coding for MBA](https://github.com/saint2706/Coding-For-MBA), a free browser-based course that takes business professionals from spreadsheets to AI engineering.
+- I build a lot of small, weird things, such as off-axis 3D projections and face-recognition attendance systems.
+- I enjoy thought experiments and debates about philosophy and mythology, and some of them end up as [blog posts](#latest-blog-posts).
 
-<!-- What I'm Working On -->
-## 🔭 What I'm Working On
+<!-- Featured Projects -->
+## Featured Projects
 
-| Project | What it is |
-| --- | --- |
-| [**Coding for MBA**](https://github.com/saint2706/Coding-For-MBA) | A 145-day, 12-phase coding curriculum for business professionals, running entirely in the browser (React + TypeScript + `sql.js` + Pyodide-style in-page execution). |
-| [**Portfolio**](https://github.com/saint2706/saint2706.github.io) | Dual-theme personal site with an AI chat version of me, an in-browser Python playground and interactive games. |
-| [**Programming Challenges 5**](https://github.com/saint2706/Programming-Challenges-5) | Polyglot reference implementations (Python, Rust, Go) across practical, algorithmic, emulation, AI, game-dev and web categories — with benchmarks. |
-| [**IPL Impact Intelligence**](https://github.com/saint2706/HRR-MLBA-Project) | K-Means player archetyping and impact modelling on ball-by-ball IPL data, shipped as a Streamlit dashboard. |
-| [**Off-Axis Experiments**](https://github.com/saint2706/off-axis-experiments) | Glasses-free 3D illusion via asymmetric-frustum projection, driven by mouse, device tilt or webcam head tracking. |
-| [**Attendance via Face Recognition**](https://github.com/saint2706/Attendance-Management-System-Using-Face-Recognition) | Django + DeepFace + FAISS attendance system, containerised with Celery/Redis workers and Prometheus metrics. |
+### Teaching & Practice
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Coding for MBA**](https://github.com/saint2706/Coding-For-MBA) · [live](https://saint2706.github.io/Coding-For-MBA/) | A free, self-paced course for business professionals: 12 phases over 162 days. Python runs in the browser, progress is saved locally, and it works offline after the first load. | React 19, TypeScript, Vite, Zustand, Vitest, Playwright |
+| [**Programming Challenges 6**](https://github.com/saint2706/Programming-Challenges-6) | The sixth version of my learn-a-language-by-building repo. It has 150 challenges across software, algorithms, web, analytics and ML, and 73 are done. One of them is a Rust B-tree benchmarked against other tree structures. | Python, Rust, JavaScript/Svelte, FastAPI, Polars, DuckDB, Streamlit |
+
+### Systems & Web Builds
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Attendance via Face Recognition**](https://github.com/saint2706/Attendance-Management-System-Using-Face-Recognition) | A self-hosted attendance tracker with touchless check-in. A two-stage liveness check tries to reject photos and screens. The front end is an installable PWA, and it ships with Docker and Kubernetes configs. | Django, DRF, DeepFace, Celery, Redis, React, Tailwind |
+| [**Off-Axis Experiments**](https://github.com/saint2706/off-axis-experiments) · [live](https://off-axis-experiments.vercel.app) | A 3D "window" that needs no glasses. The projection is recalculated every frame from the viewer's position, set by mouse, device tilt or webcam head tracking. | WebGL, MediaPipe FaceMesh |
+| [**Portfolio**](https://github.com/saint2706/saint2706.github.io) · [live](https://saint2706.github.io) | My personal site, with an AI chat version of me, a Python playground that runs in the browser, and a few games, including Connect Four against a minimax AI. | React 19, Vite, Tailwind v4, Pyodide |
 
 <!-- Currently Learning -->
-## 🌱 Currently Learning
+## Currently Exploring
 
-- 📈 Deepening **statistics** and working through **clustering** algorithms beyond the usual K-Means.
-- 🦀 Picking up **Rust** and **Go** by re-solving problems I've already solved in Python.
-- 🤖 Fine-tuning and deploying transformer models on consumer GPUs.
+- More statistics, and clustering beyond K-Means.
+- Rust and Go, by re-solving problems I've already solved in Python.
+- Fine-tuning and deploying transformer models on consumer GPUs.
 
 <!-- Tech Stack -->
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="left">
   <strong>Languages</strong><br>
@@ -56,30 +66,15 @@
   <img src="https://jmcrafter26.github.io/badges/built-with/javascript/compact.svg" alt="Built with JavaScript" height="46" />
   <img src="https://jmcrafter26.github.io/badges/built-with/rust/compact.svg" alt="Built with Rust" height="46" />
   <img src="https://jmcrafter26.github.io/badges/built-with/go/compact.svg" alt="Built with Go" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/built-with/java/compact.svg" alt="Built with Java" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/built-with/c/compact.svg" alt="Built with C" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/built-with/cpp/compact.svg" alt="Built with C++" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/built-with/php/compact.svg" alt="Built with PHP" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/built-with/markdown/compact.svg" alt="Built with Markdown" height="46" />
 </p>
 
 <p align="left">
-  <strong>Web &amp; UI</strong><br>
+  <strong>Web &amp; Ship</strong><br>
   <img src="https://jmcrafter26.github.io/badges/built-with/react/compact.svg" alt="Built with React" height="46" />
   <img src="https://jmcrafter26.github.io/badges/built-with/vite/compact.svg" alt="Built with Vite" height="46" />
   <img src="https://jmcrafter26.github.io/badges/built-with/tailwindcss/compact.svg" alt="Built with Tailwind CSS" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/built-with/d3/compact.svg" alt="Built with D3" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/built-with/flask/compact.svg" alt="Built with Flask" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/built-with/figma/compact.svg" alt="Built with Figma" height="46" />
-</p>
-
-<p align="left">
-  <strong>Ship &amp; Run</strong><br>
   <img src="https://jmcrafter26.github.io/badges/built-with/docker/compact.svg" alt="Built with Docker" height="46" />
   <img src="https://jmcrafter26.github.io/badges/built-with/github-workflows/compact.svg" alt="Built with GitHub Workflows" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/built-with/github-pages/compact.svg" alt="Built with GitHub Pages" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/built-with/cloudflare-workers/compact.svg" alt="Built with Cloudflare Workers" height="46" />
-  <img src="https://jmcrafter26.github.io/badges/available/github/compact.svg" alt="Available on GitHub" height="46" />
 </p>
 
 <!--
@@ -88,15 +83,10 @@
 -->
 <p align="left">
   <strong>Data Science &amp; ML</strong><br>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/XGBoost-%23337AB7.svg?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
@@ -109,29 +99,11 @@
   <img src="https://img.shields.io/badge/Celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-<p align="left">
-  <strong>Also in the toolbox</strong><br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
-  <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp" />
-</p>
-
 <!-- Latest Blog Posts -->
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [6 Counter-Intuitive Marketing Truths That Explain Why We Buy](https://saint2706.medium.com/6-counter-intuitive-marketing-truths-that-explain-why-we-buy-0b5ecebab9aa?source=rss-cc415cecd21e------2)
@@ -141,30 +113,29 @@
 - [Build Your First Movie Recommendation Engine in Python](https://dev.to/saint2706/build-your-first-movie-recommendation-engine-in-python-5585)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- GitHub Stats & WakaTime -->
-## 📊 My Stats
-
 <!-- GitHub Stats -->
+## GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saint2706&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=saint2706&theme=material-palenight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint2706&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-<!-- LeetCode Stats -->
+<!-- Contribution snake: generated daily by .github/workflows/snake.yml -->
 <p align="center">
-  <a href="https://leetcode.com/u/saintwithataint/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/saintwithataint?theme=nord&font=baloo&ext=heatmap" alt="saintwithataint's LeetCode stats" />
-  </a>
-</p>
-
-<!-- WakaTime Stats -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rishabh's WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Saint2706&layout=compact&hide_border=true" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saint2706/saint2706/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saint2706/saint2706/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/saint2706/saint2706/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <!-- Socials -->
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://saint2706.github.io" target="_blank">
@@ -207,10 +178,10 @@
 </p>
 
 <!-- Contributing -->
-## 🤝 Contributing
+## Contributing
 
-Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING.md) for more information.
+To fix a broken link or add a blog feed, see the [contributing guidelines](CONTRIBUTING.md).
 
 <p align="center">
-  <sub>Badges by <a href="https://jmcrafter26.github.io/badges/">Fancy Badges</a> and <a href="https://shields.io/">shields.io</a>.</sub>
+  <sub>Header by <a href="https://github.com/kyechan99/capsule-render">capsule-render</a> · tagline by <a href="https://github.com/DenverCoder1/readme-typing-svg">readme-typing-svg</a> · snake by <a href="https://github.com/Platane/snk">Platane/snk</a> · badges by <a href="https://jmcrafter26.github.io/badges/">Fancy Badges</a> and <a href="https://shields.io/">shields.io</a></sub>
 </p>

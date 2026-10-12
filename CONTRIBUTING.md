@@ -16,7 +16,7 @@ All social media and contact links are located in the `README.md` file under the
 To add or update a link:
 
 1.  Open the `README.md` file.
-2.  Navigate to the `## 🌐 Connect with Me` section.
+2.  Navigate to the `## Connect with Me` section.
 3.  You can add a new badge by following the existing format. Prefer [Fancy Badges](https://jmcrafter26.github.io/badges/), which is the primary badge source for this README. Its URLs follow the pattern:
 
     ```
